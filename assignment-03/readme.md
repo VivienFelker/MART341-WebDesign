@@ -1,8 +1,8 @@
-# heading 1
-## heading 2
-### heading 3
+# How to name files correctly.
+## How the internet works.
+### How spotify communicates to play a song
 
-ksjdbkaijsfbjdksanbfkjesdbflhkjasbdfjkhsdbfhjkasdbfhjksdbfjhsdbfhjsdbfjhsdbalkjasdnkj;sndfjksdnfjksdnfjnasdkjfnaswe;jkfnowefowefniowefoefiowenfawjsnefsjkdfnskdfn;dfjnasjkldfnkjsfnkjsdfn
+
 
 [Click Here](https://f4wm.org)
 
