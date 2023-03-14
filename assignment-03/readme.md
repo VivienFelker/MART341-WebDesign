@@ -8,7 +8,4 @@
 
 [My File](./responses.txt)
 
-![screenshot](./images/Screenshot2.jpg)
-
-
-
+![screenshot](./images/screenshot2.jpg)
