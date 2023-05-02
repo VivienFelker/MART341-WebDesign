@@ -1,3 +1,1 @@
-My user testing sessions were not super productive because I still have quite a bit to do with my site before theres much function to test. I was still able to get good suggestions on how I should outline my website which was very useful.
-I will continue to work on my website this week and consult the same testers for their feedback once it is more complete. I didn't make many changes post user-testing that I wouldn't have otherwise because my site is still in a pretty rough shape.
-This week was a struggle for me, I'm having a hard time remembering a lot of the older concepts and lessons, so I've been very slow moving in this build. It has been very frustrating at times, and I know I have a lot of work ahead of me this week. 
+
