@@ -1,13 +1,9 @@
 body {
   background-color: white;
-  font-family: Elika Gorica;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   font-size: 17px
-}
-
-
-
-
+ }
 
 
 #img1 {
@@ -15,13 +11,13 @@ body {
   border-radius: 4px;
   padding: 5px;
   width: 250px;
-}
+ }
+
 
 #img2 {
   padding: 5px;
   width: 250px;
-}
-
+ }
 
 
 .inspiration {
@@ -29,9 +25,7 @@ body {
   height: 1080px;
   width: 900px;
   display: inline-block;
-}
-
-
+ }
 
 
 /* Menu */
@@ -42,10 +36,11 @@ body {
     height: 10em;
     top: 0px;
     bottom: 3px;
-    font-family: Elika Gorica;
+    font-family: 'Montserrat', sans-serif;
     text-align: right;
     text direction: none;
-  }
+   }
+
 
   /* Set layout */
   .menu-item {
@@ -58,66 +53,21 @@ body {
     min-width: 6em;
     text-align: center;
     text decoration: none;
-  }
+   }
+
 
   .menu-item:hover{
     background-color: black;
     color: white;
-  }
+   }
+
 
   /* styling my links */
   .menu-item a {
     color: white;
     text-decoration: none;
-  }
+   }
 
-
-  /* dropdown */
-  .dropdown {
-    position: relative;
-    display: inline-block;
-    text-decoration: none;
-  }
-
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    margin: 0.5em 0.0 -1em;
-    color: #000;
-    background-color: #fff;
-    z-index: 1;
-    text-decoration: none;
-  }
-
-  .dropdown:hover .dropdown-content {
-    display: block;
-    text-decoration: none;
-  }
-
-  .dropdown-content a {
-    color: #000;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-
-  /* Styling the dropdown display: */
-.dropdown-item {
-    display: block;
-    text-align: left;
-    margin: 0;
-    padding: 0.5em 1em 0.5em 1em;
-    min-width: 6em;
-}
-
-.dropdown-item:hover, .dropdown-item:hover a{
-    color: white;
-    background-color: black;
-}
-
-.dropdown:hover{
-    border-radius: 1em 1em 0em 0em;
-}
 
 /* Adding a Footer */
 <style>
@@ -130,3 +80,183 @@ body {
   color: white;
   text-align: center;
 }
+
+
+/* Styling meditation top of page*/
+#meditationheader {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: auto;
+ }
+
+
+/* Styling "meditation" */
+#meditationhead {
+  width: 500px;
+  border: solid black 2px;
+  margin: auto;
+  background-color: white;
+  color: black;
+ }
+
+
+/* Styling Alice about */
+#alice {
+   width: 800px;
+   border: solid black 2px;
+   background-color: black;
+   color: white;
+   text-align: center;
+   margin: auto;
+  }
+
+
+#alicebio {
+    width: 800px;
+    border: solid black 2px;
+    margin: left;
+    float: left;
+    padding: 12px
+  }
+
+
+#img {
+     display: block;
+     float: left;
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     padding: 5px;
+     width: 250px;
+   }
+
+   /* Styling meditation book */
+#bookmeditation {
+   width: 800px;
+   border: solid black 2px;
+   margin: auto;
+   background-color: black;
+   color: white;
+  }
+
+   /* Styling prices */
+   #prices {
+     width: 450px;
+     border: solid black 2px;
+     margin: auto;
+   }
+
+
+   /* Styling Massage top of page */
+   #massagetop {
+     background-color: black;
+     color: white;
+     text-align: center;
+     margin: auto;
+   }
+
+
+   /* Styling "massage" */
+   #massagehead {
+     width: 500px;
+     border: solid black 2px;
+     margin: auto;
+     background-color: white;
+     color: black;
+   }
+
+   /* Styling massage about */
+   #meetprac {
+     width: 800px;
+     border: solid black 2px;
+     background-color: black;
+     color: white;
+     margin: auto;
+     float: left;
+   }
+
+  #melissa {
+     width: 800px;
+     border: solid black 2px;
+     margin: left;
+     float: left;
+   }
+
+  #melissapic {
+    border: 1px solid #black;
+    border-radius: 10px;
+    padding: 5px;
+    width: 250px;
+   }
+
+
+   /* Styling massage booking */
+  #massagebook {
+    width: 800px;
+    border: solid black 2px;
+    margin: auto;
+    background-color: black;
+    color: white;
+   }
+
+  #massagedetails {
+    width: 800px;
+    border: solid black 2px;
+    margin: auto;
+   }
+
+/* Styling Reiki top of page */
+  #reikitop {
+   background-color: black;
+   color: white;
+   text-align: center;
+   margin: auto;
+  }
+
+
+/* Styling "reiki" */
+  #reikihead {
+   width: 500px;
+   border: solid black 2px;
+   margin: auto;
+   background-color: white;
+   color: black;
+  }
+
+/* Styling reiki about */
+  #meetrebecca {
+   width: 800px;
+   border: solid black 2px;
+   background-color: black;
+   color: white;
+   margin: auto;
+  }
+
+  #rebecca {
+   width: 800px;
+   border: solid black 2px;
+   margin: auto;
+  }
+
+/* Styling reiki booking */
+  #reikibook {
+   width: 800px;
+   border: solid black 2px;
+   margin: auto;
+   background-color: black;
+   color: white;
+  }
+
+  #reikidetails {
+  width: 800px;
+  border: solid black 2px;
+  margin: auto;
+ }
+
+/* styling reiki button */
+  button {
+   background-color: black
+   color: white;
+   padding: 15px ;
+   font-size: 16px;
+  }
